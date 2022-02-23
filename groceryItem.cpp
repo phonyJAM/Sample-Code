@@ -1,9 +1,6 @@
 //
 //  groceryItem.cpp
-//  Homework 1
 //
-//  Created by Jose Muniz on 2/14/18.
-//  Copyright © 2018 Jose Muniz. All rights reserved.
 //
 
 #include <stdio.h>
