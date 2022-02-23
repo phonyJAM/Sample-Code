@@ -1,9 +1,5 @@
 //
 //  main.cpp
-//  Homework 1
-//
-//  Created by Jose Muniz.
-//  Copyright © 2018 Jose Muniz. All rights reserved.
 //
 
 #include <iostream>
