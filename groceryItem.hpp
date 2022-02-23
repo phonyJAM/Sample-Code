@@ -1,9 +1,6 @@
 //
 //  groceryItem.hpp
-//  Homework 1
 //
-//  Created by Jose Muniz on 2/12/18.
-//  Copyright © 2018 Jose Muniz. All rights reserved.
 //
 
 #ifndef groceryItem_hpp
